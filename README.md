@@ -1,1 +1,1 @@
-# magnetobaryogenesis
+# MagnetoBaryoGenesis
